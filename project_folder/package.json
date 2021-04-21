@@ -2,7 +2,7 @@
   "name": "learn-Travis-ZakHub"
   "description": "Simple Travis-CL check for JSHint",
   "author": "Zakaria Abousidou",
-  "version": 0.0.1,
+  "version": "0.0.1",
   "devDependencies": {
     "jshint": "^2.6.0"
 },
